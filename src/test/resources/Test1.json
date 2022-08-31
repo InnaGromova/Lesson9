@@ -1,0 +1,9 @@
+{
+  "name": "Lana Smit",
+  "age": "20",
+  "married": "true",
+  "parents": {
+    "mother": "Lada Smit",
+    "father": "Alan Smit"
+  }
+}
